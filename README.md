@@ -1,1 +1,1 @@
-# otel-ecommerce-integration
+# OpenTelemetry Integration for E-Commerce Application
