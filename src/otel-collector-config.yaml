@@ -1,15 +1,14 @@
 receivers:
   otlp:
     protocols:
-      http:
       grpc:
+      http:
 
 exporters:
-  prometheus:
-    endpoint: "0.0.0.0:9464"
+  logging:
 
 service:
   pipelines:
     traces:
       receivers: [otlp]
-      exporters: [prometheus]
+      exporters: [logging]
