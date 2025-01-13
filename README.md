@@ -33,7 +33,7 @@ OpenTelemetry (OTel) is a set of APIs, libraries, and tools for generating, coll
 - **OpenTelemetry Tracing**: Seamlessly integrated with Node.js application.
 - **Custom Spans**: Enhanced observability with detailed spans.
 - **OpenTelemetry Collector**: Processes and exports traces efficiently.
-- **Scalable Setup**: Ready to integrate with visualization tools like Jaeger or Prometheus.
+- **Scalable Setup**: Ready to integrate with visualization tools like Jaeger or Prometheus...
 
 ---
 
