@@ -8,7 +8,7 @@ This guide explains how to integrate OpenTelemetry into a Node.js application(E-
 
 ![OpenTelemetry Logo](https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.png)
 
-![Node.js](https://img.shields.io/badge/Node.js-v18.0-green) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-v1.30-blue) ![License](https://img.shields.io/github/license/DevopsProjects05/otel-ecommerce-integration)
+![Node.js](https://img.shields.io/badge/Node.js-v18.0-green) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-v1.30-blue) 
 
 ---
 
@@ -231,7 +231,7 @@ INFO    TracesExporter  {"kind": "exporter", "data_type": "traces", "resource sp
 2. The trace data is sent to the OpenTelemetry Collector via OTLP (OpenTelemetry Protocol).
 3. The Collector processes the traces and exports them to:
    - Logging for debugging.
-   - Visualization tools like Jaeger (optional).
+   
 
 ---
 
