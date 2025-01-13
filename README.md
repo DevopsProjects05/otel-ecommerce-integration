@@ -1,7 +1,7 @@
 # OpenTelemetry Integration for E-Commerce Application
 
 
-This guide explains how to integrate OpenTelemetry into a Node.js application(E-Commerce Application) for tracing and observability. It is designed for anyone, even those new to OpenTelemetry, and explains every step in detail.
+This guide explains how to integrate OpenTelemetry into a Node.js application(E-Commerce Application) for tracing and observability. It is designed for anyone, even those new to OpenTelemetry, and explains every step in detail...
 
 
 ---
